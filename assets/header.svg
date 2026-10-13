@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Emami — Python and C++</title>
+  <desc id="desc">Dark navy developer banner with orange typography, a geometric monogram, and an orbital diagram.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a8bacf" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#ff8547" stop-opacity=".12"/><stop offset="1" stop-color="#ff8547" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent"><stop stop-color="#ffb071"/><stop offset="1" stop-color="#ff784f"/></linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="#0d1420"/>
+  <rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1040" cy="210" rx="290" ry="270" fill="url(#glow)"/>
+  <path d="M52 58h32M52 58v32M1228 362h-32M1228 362v-32" fill="none" stroke="#ff9b66" stroke-width="2"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="86" y="103" fill="#ff9b66" font-size="13" letter-spacing="4">ALIEMAMI81 / GITHUB</text>
+    <text x="80" y="201" fill="#f4f6fa" font-size="82" font-weight="750" letter-spacing="-4">Ali Emami<tspan fill="#ff9560">.</tspan></text>
+    <text x="85" y="250" fill="#abb8c9" font-size="23">Python &amp; C++ developer</text>
+    <path d="M86 286h570" stroke="#273243"/>
+    <text x="86" y="325" fill="#dce4ee" font-size="15" letter-spacing="2">CURIOSITY → CODE → ITERATION</text>
+    <text x="86" y="372" fill="#66788e" font-size="12" letter-spacing="2">LEARN DEEPLY. BUILD THOUGHTFULLY.</text>
+  </g>
+  <g transform="translate(1020 205)">
+    <circle r="128" fill="none" stroke="#566477" stroke-opacity=".35"/>
+    <circle r="159" fill="none" stroke="#566477" stroke-opacity=".2" stroke-dasharray="3 11"/>
+    <ellipse rx="175" ry="66" transform="rotate(-35)" fill="none" stroke="#ff9b66" stroke-opacity=".5"/>
+    <circle cx="117" cy="-94" r="7" fill="#ff9b66"/>
+    <circle cx="-126" cy="22" r="4" fill="#96b5d9"/>
+    <rect x="-76" y="-76" width="152" height="152" rx="33" transform="rotate(-8)" fill="#131e2d" stroke="#354052"/>
+    <path d="M-48 33-20-38 8 33M-37 8h34M53-36H21v69h32M21-2h26" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="square" stroke-linejoin="round"/>
+    <text y="196" text-anchor="middle" fill="#73879f" font-family="Consolas,monospace" font-size="12" letter-spacing="3">PYTHON · C++</text>
+  </g>
+</svg>
