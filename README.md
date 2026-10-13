@@ -12,9 +12,9 @@
 
 ## Small tools. Clear purpose.
 
-I'm **Ali**, a developer working with **Python and C++**. I build practical tools, explore how things work, and care about code that's easy to run and understand.
+I'm **Ali**, a developer working with **Python, C++ and JavaScript**. I build practical tools, explore how things work, and care about code that's easy to run and understand.
 
-My current projects focus on understanding code and inspecting data. Both come with runnable examples, documentation, and regression tests.
+My current projects focus on understanding code, inspecting data, and checking configuration. Each comes with runnable examples, documentation, and regression tests.
 
 ## On my workbench
 
@@ -44,6 +44,14 @@ A streaming CSV profiler that finds missing values and inconsistent rows, summar
 </td>
 </tr>
 </table>
+
+### [envlens ↗](https://github.com/AliEmami81/envlens)
+
+**Catch missing configuration before starting your app.**
+
+Checks `.env` files against an example contract and reports missing, empty, duplicate, or unexpected keys without printing values. Includes JSON output for automation.
+
+`JavaScript` · `Node.js` · `CLI + library` · `Zero dependencies`
 
 ## The way I build
 
