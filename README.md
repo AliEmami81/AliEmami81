@@ -18,6 +18,14 @@ My current projects focus on understanding code, inspecting data, and checking c
 
 ## On my workbench
 
+### [SkillTrail ↗](https://github.com/AliEmami81/skilltrail) · [Live demo](https://aliemami81.github.io/skilltrail/)
+
+**Follow the files behind an agent skill.**
+
+An offline, interactive reference map for `SKILL.md` bundles. Trace reading paths, inspect source, find broken links and export a portable HTML report. No API key or model calls.
+
+`Agent Skills` · `JavaScript` · `Interactive graphs` · `Offline reports`
+
 <table>
 <tr>
 <td width="50%" valign="top">
