@@ -14,9 +14,25 @@
 
 I'm **Ali**, a developer working with **Python, C++ and JavaScript**. I build practical tools, explore how things work, and care about code that's easy to run and understand.
 
-My current projects focus on understanding code, inspecting data, and checking configuration. Each comes with runnable examples, documentation, and regression tests.
+My current projects explore interactive learning, evidence-grounded resume editing, and practical developer tools. Each comes with a runnable demo or examples, documentation, and regression tests.
 
 ## On my workbench
+
+### [ExplainLab Kit ↗](https://github.com/AliEmami81/explain-lab) · [Try the labs](https://aliemami81.github.io/explain-lab/)
+
+**Don't just explain it. Let me change it.**
+
+Compare sorting strategies and weighted pathfinding on reproducible inputs. Step through actual algorithm state, test a prediction, and use the included agent skill to build another lab.
+
+`Agent Skills` · `Interactive learning` · `Algorithms` · `No runtime dependencies`
+
+### [ProofCV ↗](https://github.com/AliEmami81/proofcv) · [Try the studio](https://aliemami81.github.io/proofcv/)
+
+**Your experience, with receipts.**
+
+A local resume editor with source-linked job keyword checks, exact-wording bullet focus, JSON import/export and printable HTML/PDF. Includes an evidence-grounded resume drafting skill.
+
+`Resume builder` · `Source provenance` · `Local first` · `No model calls in the app`
 
 ### [SkillTrail ↗](https://github.com/AliEmami81/skilltrail) · [Live demo](https://aliemami81.github.io/skilltrail/)
 
